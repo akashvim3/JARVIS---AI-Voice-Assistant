@@ -260,8 +260,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/jarvis-ai](https://github.com/yourusername/jarvis-ai)
-- **Developer**: Your Name
+- **Project Link**: [https://github.com/akashvim3/jarvis-ai](https://github.com/akashvim3/jarvis-ai)
+- **Developer**: Akash Vimal
 - **Email**: your.email@example.com
 
 ## ⭐ Show Your Support
